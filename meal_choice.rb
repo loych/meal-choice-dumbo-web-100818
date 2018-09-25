@@ -5,3 +5,4 @@ def meal_choice
   puts choice
 end
   
+  meal_choice
